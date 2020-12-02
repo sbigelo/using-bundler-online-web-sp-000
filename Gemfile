@@ -9,4 +9,3 @@ group :development do
 gem "pry"
 end
 
-git@github.com:awesome-print/awesome_print.gi
